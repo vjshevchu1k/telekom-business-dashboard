@@ -1,4 +1,4 @@
-Year,Month,Region,Revenue (€),Costs (€),Customers,Profit (€)
+Year,Monat,Region,Revenue (€),Costs (€),Customers,Profit (€)
 2024,Januar,Berlin,271958,228162,2794,43796
 2024,Januar,München,409178,341216,4592,67962
 2024,Januar,Hamburg,204886,150335,2738,54551
@@ -191,3 +191,4 @@ Year,Month,Region,Revenue (€),Costs (€),Customers,Profit (€)
 2025,Dezember,Stuttgart,318152,247384,3327,70768
 2025,Dezember,Düsseldorf,316981,257532,3310,59449
 2025,Dezember,Leipzig,353196,251968,3714,101228
+
