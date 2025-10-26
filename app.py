@@ -47,4 +47,5 @@ st.plotly_chart(fig_umsatz, use_container_width=True)
 st.plotly_chart(fig_kunden, use_container_width=True)
 
 st.markdown("---")
-st.markdown("© 2025 Telekom Business Dashboard – Erstellt von [Dein Name]")
+st.markdown("© 2025 Telekom Business Dashboard – Erstellt von Vitalii Shevchuk")
+
