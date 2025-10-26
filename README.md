@@ -21,3 +21,8 @@ git clone https://github.com/deinusername/telekom-business-dashboard.git
 cd telekom-business-dashboard
 pip install -r requirements.txt
 streamlit run app.py
+
+## 👤 Autor
+Vitalii Shevchuk  
+📍 Wettringen, Nordrhein-Westfalen, Deutschland  
+📧 vitalijshevchuk@protonmail.com
